@@ -23,6 +23,10 @@ public void amethod() {
 	//for committing//
 	System.out.println("message here");
 }
+public void second() {
+	//second commit//
+	System.out.println("new Message");
+}
 
 public void mergemethod() {
 	//this is a method used for merging.//
